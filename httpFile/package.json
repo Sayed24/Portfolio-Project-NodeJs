@@ -1,0 +1,15 @@
+{
+  "name": "httpfile",
+  "version": "1.0.0",
+  "description": "\"Node HTTP Module for Portfolio Project \",",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "Sayed Sadat",
+  "license": "ISC"
+}
